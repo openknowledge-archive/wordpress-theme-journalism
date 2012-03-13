@@ -721,6 +721,7 @@ input[type="submit"] {
 	border-left-style: solid;
 	border-right-color: #DCEEE6;
 	border-left-color: #DCEEE6;
+	padding-bottom:20px;
 }
 
 #main {
