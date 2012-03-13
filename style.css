@@ -518,7 +518,6 @@ input[type="submit"] {
 #branding {
 	padding-bottom: 10px;
 	position: relative;
-	z-index: 9999;
 	padding-top: 75px;
 }
 
