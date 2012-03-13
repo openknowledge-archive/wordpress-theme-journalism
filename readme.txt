@@ -1,5 +1,3 @@
-= TWENTY ELEVEN =
+= Journalism =
 
-* by the WordPress team, http://wordpress.org/
-
-== ABOUT TWENTY ELEVEN ==
+* based on TWENTY ELEVEN by the WordPress team, http://wordpress.org/
